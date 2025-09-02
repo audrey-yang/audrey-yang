@@ -8,12 +8,12 @@ I'm trying to improve my skills in systems programming languages like C, C++, an
 
 ## 📫 Connect with me
 
-You can find me on [![LinkedIn][1.1]][1].
+You can find me on [LinkedIn][1].
 
 ## 💻 Languages & Tools
 
 ![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=audrey-yang&show_icons=true&theme=transparent&hide_rank=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audrey-yang&count_private=true&show_icons=true&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audrey-yang&count_private=true&show_icons=true&theme=transparent&locale=en&layout=compact&langs_count=6&hide=html,css,javascript)
 
 <!-- Icons -->
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
